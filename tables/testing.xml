@@ -1,0 +1,75 @@
+<buttons>
+	<startButton>
+		<color> </color>
+		<lineStyle> </lineStyle>
+		<width> </width>
+		<height> </height>
+		<x> </x>
+		<y> </y>
+	</startButton>
+	
+	<instructionsButton>
+		<color> </color>
+		<lineStyle> </lineStyle>
+		<width> </width>
+		<height> </height>
+		<x> </x>
+		<y> </y>
+	</instructionsButton>
+	
+	<creditsButton>
+		<color> </color>
+		<lineStyle> </lineStyle>
+		<width> </width>
+		<height> </height>
+		<x> </x>
+		<y> </y>
+	</creditsButton>
+</buttons>
+
+<text>
+	<newScreenText>
+		<height> </height>
+		<width> </width>
+		<x> </x>
+		<y> </y>
+		<selectable> </selectable>
+		<text> </text>
+	</newScreenText>
+	
+	<titleText>
+		<height> </height>
+		<width> </width>
+		<x> </x>
+		<y> </y>
+		<selectable> </selectable>
+		<text> </text>
+	</titleText>
+	
+	<startText>
+		<height> </height>
+		<width> </width>
+		<x> </x>
+		<y> </y>
+		<selectable> </selectable>
+		<text> </text>
+	</startText>
+	
+	<instructionsText>
+		<height> </height>
+		<width> </width>
+		<x> </x>
+		<y> </y>
+		<selectable> </selectable>
+		<text> </text>
+	</instructionsText>
+	
+	<creditsText>
+		<height> </height>
+		<width> </width>
+		<x> </x>
+		<y> </y>
+		<selectable> </selectable>
+		<text> </text>
+	</creditsText>
+</text>
